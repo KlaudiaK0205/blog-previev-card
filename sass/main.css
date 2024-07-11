@@ -38,7 +38,7 @@ body {
 }
 
 .card-box {
-  width: 327px;
+  width: 279px;
   height: auto;
   border: 1px solid var(--main-header-color);
   border-radius: 22px;
@@ -108,7 +108,7 @@ body {
     margin-top: 218px;
   }
   .card-box {
-    width: 384px;
+    width: 336px;
   }
   .card__type,
   .card__publishing-date,
